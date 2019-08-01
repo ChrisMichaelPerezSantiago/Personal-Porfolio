@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chrismichael
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://personal-porfolio.chrismichael.now.sh
+  * I am chrismichael (https://keybase.io/chrismichael) on keybase.
+  * I have a public key ASAldxPoyLRkFRjeLTOpQqZB_mOcYADTzLOchX7GTGpr_wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120257713e8c8b4641518de2d33a942a641fe639c6000d3ccb39c857ec64c6a6bff0a",
+      "host": "keybase.io",
+      "kid": "0120257713e8c8b4641518de2d33a942a641fe639c6000d3ccb39c857ec64c6a6bff0a",
+      "uid": "71fc49899cec788967a09024530f2e19",
+      "username": "chrismichael"
+    },
+    "merkle_root": {
+      "ctime": 1564692026,
+      "hash": "39f1039198a2d6082b5c048619b207ac4b31b1e43663b891ed1a819757a253b120d77d8e9a9784e6e534491a2e414b8b59f8d9a9406dc0caf29bc2ea65169a3b",
+      "hash_meta": "765f577d2d1b460aed7cf3fab805f4b1491b97964b8db4c9848fb8ac3c5c7703",
+      "seqno": 5911972
+    },
+    "service": {
+      "entropy": "MpOfmSayYHCibpusBXQq7An9",
+      "hostname": "personal-porfolio.chrismichael.now.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564692034,
+  "expire_in": 504576000,
+  "prev": "e3ce707338444c27ab509bdd56a8468968d389c66936097ad198c3967fa99bf0",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJXcT6Mi0ZBUY3i0zqUKmQf5jnGAA08yznIV+xkxqa/8Kp3BheWxvYWTESpcCEcQg485wczhETCerUJvdVqhGiWjTicZpNgl60ZjDln+pm/DEICR4n/aO5exOwEK8NqXUFzRYwuGuFhxkg8n7OD5vpTE7AgHCo3NpZ8RAUIqGwsUf8q/p1OgKjPOpGtgpvTnjBdjNWaMDpBuEv8HWDuQznuuIR10bUC8loIBVmDQCMiR/iPylOawZ1pkvAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDt1RA5YArV2AEOkmU4p3jpPx1m7548TNkf0G9nkeADlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrismichael
+
+==================================================================
